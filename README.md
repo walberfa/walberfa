@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Walber 👋
+
+- 🌱 I’m currently learning about vlsi systems design and hardware description language
+- 📫 How to reach me: walberfa@gmail.com
 
 <!--
 **walberfa/walberfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
