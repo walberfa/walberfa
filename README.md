@@ -1,7 +1,20 @@
-### Hi there, I'm Walber 👋
+### Olá pessoal, eu sou o Walber 👋
 
-- 🌱 I’m currently learning about vlsi systems design and hardware description language
-- 📫 How to reach me: walberfa@gmail.com
+##
+
+- 🌱 Estudo Ciência da Computação no IFCE
+- 🔭 Atualmente estou aprimorando meus conhecimentos em Python por motivos profissionais
+- 😄 Tenho alguns projetinhos em linguagens de descrição de hardware
+- 📫 Email: walberfa@gmail.com
+
+
+##
+
+<div align="center">
+  <a href="https://github.com/walberfa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walberfa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walberfa&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <!--
 **walberfa/walberfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
