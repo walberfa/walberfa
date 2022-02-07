@@ -3,7 +3,7 @@
 ##
 
 - 🌱 Estudo Ciência da Computação no IFCE
-- 🔭 Atualmente estou aprimorando meus conhecimentos em Python por motivos profissionais
+- 🔭 Atualmente estou aprimorando meus conhecimentos em Python
 - 😄 Tenho alguns projetinhos em linguagens de descrição de hardware
 - 📫 Email: walberfa@gmail.com
 
