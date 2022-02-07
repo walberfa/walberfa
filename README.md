@@ -1,10 +1,11 @@
-### Olá pessoal, eu sou o Walber 👋
-
+### Quer entrar e tomar uma xícara de :coffee:?
 ##
 
+Olá pessoal, eu sou o Walber Florêncio 👋
+
 - 🌱 Estudo Ciência da Computação no IFCE
-- 🔭 Atualmente estou aprimorando meus conhecimentos em Python
-- 😄 Tenho alguns projetinhos em linguagens de descrição de hardware
+- 🔭 Atualmente aprimorando meus conhecimentos em Python
+- 😄 Tenho alguns projetinhos em linguagens de descrição de hardware, confere aí embaixo
 - 📫 Email: walberfa@gmail.com
 
 
