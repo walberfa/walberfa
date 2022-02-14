@@ -8,12 +8,22 @@ Olá pessoal, eu sou o Walber Florêncio 👋
 - 😄 Tenho alguns projetinhos em linguagens de descrição de hardware, confere aí embaixo
 - 📫 Email: walberfa@gmail.com
 
+##
 
+Me encontre no:
+<div align="center">
+  
+  <a href="https://www.instagram.com/walber.florencio/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/walber-florencio/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+</div>
+  
 ##
 
 <div align="center">
   <a href="https://github.com/walberfa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walberfa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walberfa&layout=compact&theme=dracula&count_private=false"/>
  
 </div>
 
