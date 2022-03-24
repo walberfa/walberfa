@@ -4,7 +4,7 @@
 Olá pessoal, eu sou o Walber Florêncio 👋
 
 - 🌱 Estudo Ciência da Computação no IFCE
-- 🚀 Bolsista Dev no Pólo de Inovação do IFCE
+- 🚀 Bolsista Dev no Polo de Inovação do IFCE
 - 🔭 Aprimorando meus conhecimentos em Python e começando a estudar front-end
 - 😄 Tenho alguns projetinhos em linguagens de descrição de hardware, confere aí embaixo
 - 📫 Email: walberfa@gmail.com
