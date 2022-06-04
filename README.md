@@ -18,6 +18,27 @@ Me encontre no:
   <a href="https://www.linkedin.com/in/walber-florencio/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
+
+##
+
+Tecnologias que mais estou usando atualmente:
+
+<div align="center">
+    <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
+</div>          
+          
+          
+                    
+
+##
+
+GitHub Stats:
+
+<div align="center">
+  <a href="https://github.com/walberfa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walberfa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walberfa&layout=compact&langs_count=8&theme=dracula"/>
+</div>
   
 
 
