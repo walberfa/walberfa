@@ -1,7 +1,6 @@
-### Quer entrar e tomar uma xícara de :coffee:?
-##
+## Quer entrar e tomar uma xícara de :coffee:?
 
-Olá pessoal, eu sou o Walber Florêncio 👋
+### Olá pessoal, eu sou o Walber Florêncio 👋
 
 - 🌱 Estudo Ciência da Computação no IFCE
 - 🚀 Bolsista Dev/QA no Polo de Inovação do IFCE
@@ -11,7 +10,7 @@ Olá pessoal, eu sou o Walber Florêncio 👋
 
 ##
 
-Me encontre no:
+### Me encontre no:
 <div align="center">
   
   <a href="https://www.instagram.com/walber.florencio/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -21,7 +20,7 @@ Me encontre no:
 
 ##
 
-Tecnologias que mais estou usando atualmente:
+### Tecnologias que mais estou usando atualmente:
 
 <div align="center">
     <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
@@ -32,7 +31,7 @@ Tecnologias que mais estou usando atualmente:
 
 ##
 
-GitHub Stats:
+### GitHub Stats:
 
 <div align="center">
   <a href="https://github.com/walberfa">
