@@ -1,12 +1,13 @@
 ## Quer entrar e tomar uma xícara de :coffee:?
 
-### Olá pessoal, eu sou o Walber Florêncio 👋
+### Olá pessoal, me chamo Walber Florêncio 👋
 
-- 🌱 Estudo Ciência da Computação no IFCE
-- 🚀 Bolsista Dev/QA no Polo de Inovação do IFCE
+- 🌱 Cientista da Computação
+- 📫 Moro em Maracanaú/CE
+- 🚀 Testador de software no Polo de Inovação do IFCE
 - 🔭 Trabalhando com Python e testes unitários
-- 😄 Tenho alguns projetinhos em linguagens de descrição de hardware, confere aí embaixo
-- 📫 Email: walberfa@gmail.com
+
+<img align="center" alt="GIF" img height="200em" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 ##
 
@@ -15,6 +16,8 @@
   
   <a href="https://www.instagram.com/walber.florencio/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/walber-florencio/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href = "mailto:walberfa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
 
 </div>
 
@@ -23,8 +26,8 @@
 ### Tecnologias que mais estou usando atualmente:
 
 <div align="center">
-    <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
-</div>          
+    <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img width="60" src="https://github.com/AlefMends/alefmends/blob/main/icon-github.svg" />
+    </div>          
           
           
                     
@@ -39,7 +42,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walberfa&layout=compact&langs_count=8&theme=dracula"/>
 </div>
   
-
 
 <!--
 **walberfa/walberfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
