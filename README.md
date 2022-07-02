@@ -1,6 +1,7 @@
 ## Quer entrar e tomar uma xícara de :coffee:?
 
-### Olá pessoal, me chamo Walber Florêncio 👋
+### Olá pessoal, me chamo Walber Florêncio <img align="left" src="https://github.com/AlefMends/alefmends/blob/main/star.gif" alt="Bat" width="30">
+
 
 - 🌱 Cientista da Computação
 - 📫 Moro em Maracanaú/CE
@@ -42,7 +43,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walberfa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walberfa&layout=compact&langs_count=8&theme=dracula"/>
 </div>
-  
+
 
 <!--
 **walberfa/walberfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
