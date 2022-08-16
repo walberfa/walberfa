@@ -5,8 +5,8 @@
 
 - 🌱 Cientista da Computação
 - 📫 Moro em Maracanaú/CE
-- 🚀 Testador de software no Polo de Inovação do IFCE
-- 🔭 Trabalhando com Python e testes unitários
+- 🚀 Desenvolvedor de software no Polo de Inovação do IFCE
+- 🔭 Trabalhando com Python, refatoração de código e testes unitários
 - 💬 Email: walberfa@gmail.com
 
 <img align="center" alt="GIF" img height="200em" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
