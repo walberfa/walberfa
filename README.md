@@ -3,11 +3,12 @@
 ### Olá pessoal, me chamo Walber Florêncio <img align="left" src="https://github.com/AlefMends/alefmends/blob/main/star.gif" alt="Bat" width="30">
 
 
-- 🌱 Cientista da Computação
+- 🎓 Cientista da Computação
 - 🔭 Professor no IFCE Campus Maracanaú
 - 🚀 Desenvolvedor de software no Polo de Inovação do IFCE
-- 📫 Trabalhando com Python, refatoração de código e testes unitários
-- 💬 Email: walberfa@gmail.com
+- 🎯 Trabalhando com Python, refatoração de código e testes unitários
+- 💻 Email: walberfa@gmail.com
+- 📩 Email institucional: walber.florencio@ifce.edu.br
 
 <img align="center" alt="GIF" img height="200em" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
