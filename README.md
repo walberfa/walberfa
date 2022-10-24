@@ -1,6 +1,6 @@
 ## Quer entrar e tomar uma xícara de :coffee:?
 
-### Olá pessoal, me chamo Walber Florêncio <img align="left" src="https://github.com/AlefMends/alefmends/blob/main/star.gif" alt="Bat" width="30">
+### Olá mundo! Me chamo Walber Florêncio <img align="left" src="https://github.com/AlefMends/alefmends/blob/main/star.gif" alt="Bat" width="30">
 
 
 - 🎓 Cientista da Computação
