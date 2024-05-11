@@ -6,6 +6,7 @@
 - 🎓 Cientista da Computação
 - 🔭 Professor no IFCE Campus Maracanaú
 - 🚀 Software Quality Assurance no Polo de Inovação do IFCE
+- ⚡ Interessado em testes de software, devops e microeletrônica
 - 💻 Email: walberfa@gmail.com
 - 📩 Email institucional: walber.florencio@ifce.edu.br
 
@@ -28,7 +29,7 @@
 ### Tecnologias que mais estou usando atualmente:
 
 <div align="center">
-    <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />   <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />     <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img width="60" src="https://github.com/AlefMends/alefmends/blob/main/icon-github.svg" />  <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" /> <img height="60cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
+    <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />   <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />     <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img width="60" src="https://github.com/AlefMends/alefmends/blob/main/icon-github.svg" />  <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" /> 
           
  </div>          
           
