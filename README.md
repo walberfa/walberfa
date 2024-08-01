@@ -5,7 +5,6 @@
 
 - 🎓 Cientista da Computação
 - 🔭 Professor no IFCE Campus Maracanaú
-- 🚀 Software Quality Assurance no Polo de Inovação do IFCE
 - ⚡ Interessado em testes de software, devops e microeletrônica
 - 💻 Email: walberfa@gmail.com
 - 📩 Email institucional: walber.florencio@ifce.edu.br
