@@ -4,10 +4,9 @@
 
 
 - 🎓 Cientista da Computação
-- 🔭 Professor no IFCE Campus Maracanaú
-- ⚡ Interessado em testes de software, devops e microeletrônica
+- 🔭 Residência em Microeletrônica - CI Inovador
+- ⚡ Interessado em testes de software, devops, microeletrônica e desenvolvimento de jogos
 - 💻 Email: walberfa@gmail.com
-- 📩 Email institucional: walber.florencio@ifce.edu.br
 
 <img align="center" alt="GIF" img height="200em" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
