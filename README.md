@@ -3,7 +3,7 @@
 ### Olá mundo! Me chamo Walber Florêncio <img align="left" src="https://github.com/AlefMends/alefmends/blob/main/star.gif" alt="Bat" width="30">
 
 
-- 🎓 Cientista da Computação
+- 🎓 Cientista da Computação e Tecnólogo em Mecatrônica
 - 🔭 Residência em Microeletrônica - CI Inovador
 - ⚡ Interessado em testes de software, devops, microeletrônica e desenvolvimento de jogos
 - 💻 Email: walberfa@gmail.com
