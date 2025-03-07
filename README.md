@@ -5,7 +5,8 @@
 
 - 🎓 Cientista da Computação e Tecnólogo em Mecatrônica
 - 🔭 Residência em Microeletrônica - CI Inovador
-- ⚡ Interessado em testes de software, devops, microeletrônica e desenvolvimento de jogos
+- 🌱 Cursando Especialização em Microeletrônica - UFSM
+- ⚡ Interessado em testes de software, devops, microeletrônica, projetos VLSI e desenvolvimento de jogos
 - 💻 Email: walberfa@gmail.com
 - 💻 Email institucional: walber.florencio@acad.ufsm.br
 
