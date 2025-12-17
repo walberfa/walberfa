@@ -3,11 +3,11 @@
 ### Olá mundo! Me chamo Walber Florêncio <img align="left" src="https://github.com/AlefMends/alefmends/blob/main/star.gif" alt="Bat" width="30">
 
 
-- 🎓 Cientista da Computação e Tecnólogo em Mecatrônica
-- 🌱 Especialista em Microeletrônica
+- 🎓 Cientista da Computação e Tecnólogo em Mecatrônica (IFCE)
+- 🌱 Especialista em Microeletrônica (UFSM)
 - 🔭 QA & Projetista Digital
-- ⚡ Interessado em testes de software, devops, microeletrônica, projetos VLSI e desenvolvimento de jogos
-- 💻 Email: walberfa@gmail.com
+- ⚡ Interessado em testes de software, devops, microeletrônica, projetos VLSI, validação de produto.
+- 💻 Email: walberfa@gmail.com (OPEN TO WORK)
 
 <img align="center" alt="GIF" img height="200em" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
