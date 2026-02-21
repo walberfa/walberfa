@@ -6,8 +6,8 @@
 - 🎓 Cientista da Computação e Tecnólogo em Mecatrônica (IFCE)
 - 🌱 Especialista em Microeletrônica (UFSM)
 - 🔭 QA & Projetista Digital
-- ⚡ Interessado em testes de software, devops, microeletrônica, projetos VLSI, validação de produto.
-- 💻 Email: walberfa@gmail.com (OPEN TO WORK)
+- ⚡ Interessado em testes de software, devops, microeletrônica, projetos VLSI, desenvolvimento de IPs e validação de produto.
+- 💻 Email: walberfa@gmail.com
 
 <img align="center" alt="GIF" img height="200em" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
