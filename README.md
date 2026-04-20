@@ -5,7 +5,8 @@
 
 - 🎓 Cientista da Computação e Tecnólogo em Mecatrônica (IFCE)
 - 🌱 Especialista em Microeletrônica (UFSM)
-- 🔭 QA & Projetista Digital
+- ✨ Instituto de Pesquisas ELDORADO (CI Inovador - Fase 3: *In Company*)
+- 🔭 QA & Digital IP designer
 - ⚡ Interessado em testes de software, devops, microeletrônica, projetos VLSI, desenvolvimento de IPs e validação de produto.
 - 💻 Email: walberfa@gmail.com
 
