@@ -7,14 +7,14 @@
 - 🌱 Especialista em Microeletrônica (UFSM)
 - ✨ Instituto de Pesquisas ELDORADO (CI Inovador - Fase 3: *In Company*)
 - 🔭 QA & Digital IP designer
-- ⚡ Interessado em testes de software, devops, microeletrônica, projetos VLSI, desenvolvimento de IPs e validação de produto.
+- 🚀 Interesses: testes de software, DevOps, microeletrônica, projetos VLSI, desenvolvimento de IPs e validação de produto.
 - 💻 Email: walberfa@gmail.com
 
 <img align="center" alt="GIF" img height="200em" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 ##
 
-### Me encontre no:
+### 🌐 Me encontre no:
 <div align="center">
   
   <a href="https://www.instagram.com/walber.florencio/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -26,37 +26,24 @@
 
 ##
 
-### Tecnologias:
+### 🛠️ Tecnologias:
 
 <div align="center">
-    <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />   <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />     <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img width="60" src="https://github.com/AlefMends/alefmends/blob/main/icon-github.svg" />  <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> <img height="65cm" src="https://github.com/user-attachments/assets/67b75b7b-f29d-48c3-9f8f-f476c5bce5ce" />
-          
-          
+    <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />   <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />     <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img width="60" src="https://github.com/AlefMends/alefmends/blob/main/icon-github.svg" />  <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> <img height="65cm" src="https://github.com/user-attachments/assets/67b75b7b-f29d-48c3-9f8f-f476c5bce5ce" />       
  </div>         
                     
 
 ##
 
-### GitHub Stats:
-
+### 📊 GitHub Stats
 <div align="center">
-  <a href="https://github.com/walberfa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walberfa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walberfa&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walberfa&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
+##
 
-<!--
-**walberfa/walberfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"O conhecimento só é válido quando compartilhado."*
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
